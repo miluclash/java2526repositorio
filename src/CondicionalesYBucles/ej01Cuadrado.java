@@ -11,7 +11,7 @@ public class ej01Cuadrado {
 		//el cuadrado de cualquier numero positivo.
 		double sq,num;
 		Scanner sc=new Scanner(System.in);
-		
+		//cambio de github
 		System.out.println("Introudzca un numero: ");
 		num=sc.nextDouble();
 		while(num>=0) {//se repite el cuadrado mientras no pongamos un numero negativo	
